@@ -15,7 +15,7 @@ Note: This is currently under active development
 
 ## Live ( deployed version ) 
 
-Visit [website](http://.pythonanywhere.com/)
+Visit [website](http://moses.pythonanywhere.com/)
 ## Testing Locally
 
 Clone the repository
